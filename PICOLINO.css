@@ -1,11 +1,11 @@
 
 @font-face{
 	font-family: 'Garamond Bold';
-	src: url('../font/garamondbold.ttf') format('truetype');
+	src: url("garamondbold.ttf") format('truetype');
 }
 
 body{
-	font-family: 'Garamond Bold', Gerogia, serif;
+	font-family: 'Garamond Bold', 'Gerogia', serif;
 	color:black;
 	background-image: url("image/fond/bg.jpg");
 }
